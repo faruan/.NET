@@ -1,7 +1,6 @@
-### Aplicações .NET ###
+# Aplicações .NET #
 
-#Alguns projetos em C# utilizando VisualStudio.#
-Segue abaixo projetos:
-•Cadastro de Series
-•Cadastro de Jogos de Futebol
+:wave: Bem vindo ao meu repositório .NET com alguns projetos em C# utilizando Visual Studio
 
+- Cadastro de Series
+- Cadastro de Jogos de Futebol
