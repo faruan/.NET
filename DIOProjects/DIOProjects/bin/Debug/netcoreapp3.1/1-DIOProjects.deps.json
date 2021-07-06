@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1-DIOProjects/1.0.0": {
+        "dependencies": {
+          "CadastroJogos": "1.0.0",
+          "CadastroSeries": "1.0.0"
+        },
+        "runtime": {
+          "1-DIOProjects.dll": {}
+        }
+      },
+      "CadastroJogos/1.0.0": {
+        "runtime": {
+          "CadastroJogos.dll": {}
+        }
+      },
+      "CadastroSeries/1.0.0": {
+        "runtime": {
+          "CadastroSeries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1-DIOProjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CadastroJogos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CadastroSeries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
