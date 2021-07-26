@@ -7,3 +7,12 @@ C:\Users\FACCARDOSO\Documents\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\
 C:\Users\FACCARDOSO\Documents\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\CadastroJogos.csproj.CoreCompileInputs.cache
 C:\Users\FACCARDOSO\Documents\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\CadastroJogos.dll
 C:\Users\FACCARDOSO\Documents\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\CadastroJogos.pdb
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\CadastroJogos\bin\Debug\netcoreapp3.1\CadastroJogos.deps.json
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\CadastroJogos\bin\Debug\netcoreapp3.1\CadastroJogos.dll
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\CadastroJogos\bin\Debug\netcoreapp3.1\CadastroJogos.pdb
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\CadastroJogos.csproj.AssemblyReference.cache
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\CadastroJogos.AssemblyInfoInputs.cache
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\CadastroJogos.AssemblyInfo.cs
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\CadastroJogos.csproj.CoreCompileInputs.cache
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\CadastroJogos.dll
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\CadastroJogos\obj\Debug\netcoreapp3.1\CadastroJogos.pdb

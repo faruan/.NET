@@ -7,3 +7,12 @@ C:\Users\FACCARDOSO\Documents\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3
 C:\Users\FACCARDOSO\Documents\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.dll
 C:\Users\FACCARDOSO\Documents\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.pdb
 C:\Users\FACCARDOSO\Documents\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csproj.AssemblyReference.cache
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\1-CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.deps.json
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\1-CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.dll
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\1-CadastroSeries\bin\Debug\netcoreapp3.1\CadastroSeries.pdb
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csproj.AssemblyReference.cache
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.AssemblyInfo.cs
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.dll
+C:\Users\FACCARDOSO\Documents\Projetos2021\.NET\DIOProjects\1-CadastroSeries\obj\Debug\netcoreapp3.1\CadastroSeries.pdb

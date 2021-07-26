@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj": {}
+    "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj": {
+    "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj",
+        "projectUniqueName": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj",
         "projectName": "CadastroSeries",
-        "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj",
+        "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj",
         "packagesPath": "C:\\Users\\FACCARDOSO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\1-CadastroSeries\\obj\\",
+        "outputPath": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\1-CadastroSeries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

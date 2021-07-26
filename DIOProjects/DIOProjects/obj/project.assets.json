@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\DIOProjects\\1-DIOProjects.csproj",
+      "projectUniqueName": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\DIOProjects\\1-DIOProjects.csproj",
       "projectName": "1-DIOProjects",
-      "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\DIOProjects\\1-DIOProjects.csproj",
+      "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\DIOProjects\\1-DIOProjects.csproj",
       "packagesPath": "C:\\Users\\FACCARDOSO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\DIOProjects\\obj\\",
+      "outputPath": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\DIOProjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,11 +74,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj": {
-              "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj"
+            "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj": {
+              "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\1-CadastroSeries\\CadastroSeries.csproj"
             },
-            "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj": {
-              "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj"
+            "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj": {
+              "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj"
             }
           }
         }

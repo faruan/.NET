@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj": {}
+    "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj": {
+    "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj",
+        "projectUniqueName": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj",
         "projectName": "CadastroJogos",
-        "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj",
+        "projectPath": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\CadastroJogos\\CadastroJogos.csproj",
         "packagesPath": "C:\\Users\\FACCARDOSO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FACCARDOSO\\Documents\\DIOProjects\\CadastroJogos\\obj\\",
+        "outputPath": "C:\\Users\\FACCARDOSO\\Documents\\Projetos2021\\.NET\\DIOProjects\\CadastroJogos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
